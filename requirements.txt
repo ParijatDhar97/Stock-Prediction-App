@@ -1,0 +1,6 @@
+fbprophet==0.6
+plotly==5.3.1
+pystan==2.19.1.1
+yfinance==0.1.63
+networkx==2.6.3
+
